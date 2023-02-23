@@ -1,6 +1,3 @@
-# ensure you have Python (3  or latest)
-# ensure you have pip installer
-
 from Scraper import Scraper
 from Notaires import Notaires
 
